@@ -1,37 +1,83 @@
-# Hi there, I'm [Ayka](discordapp.com/users/601337312714031124 'Ayka\'s Discord profile') 👀
+![Header](./1.png)
 
-In life, I am :
-- a French 🥐 ;
-- an aspiring pentester ⚡ ;
-- a mid-level developer ⚙️ ;
-- a chess ♟️ & Minecraft player ;
-- and way more...
+<h1 align="center">Ayka</h1>
+<a href="https://github.com/ayka-667"></a>
+<a href="https://nekohost.fr/invite"></a>
 
-#### My socials:
+```
+📬 Contact Me
 
-<a title="Ayka's Discord profile" href="discordapp.com/users/601337312714031124"><img height="32" width="32" src="https://cdn.simpleicons.org/discord" style="width:40px" /></a>
-<a title="Ayka's Steam profile" href="https://steamcommunity.com/profiles/76561199441993632/"><img height="32" width="32" src="https://cdn.simpleicons.org/steam" style="width:40px" /></a>
-<a title="Ayka's Twitch profile" href="https://www.twitch.tv/tempy667"><img height="32" width="32" src="https://cdn.simpleicons.org/twitch" style="width:40px" /></a>
-<a title="Ayka's Youtube profile" href="https://www.youtube.com/channel/UCPFR8BwxzwnTlXUs8bHtB3w"><img height="32" width="32" src="https://cdn.simpleicons.org/youtube" style="width:40px;" /></a>
-#### Languages & Tools:
+- Email : contact@ayka.dev
+- Discord  : nekohost.fr/invite
 
-<a title="JavaScript" href="https://developer.mozilla.org/docs/Web/JavaScript"><img height="32" width="32" src="https://cdn.simpleicons.org/javascript" style="width:40px" /></a>
-<a title="NodeJS" href="https://nodejs.org/en/learn/getting-started/introduction-to-nodejs"><img height="32" width="32" src="https://cdn.simpleicons.org/node.js" style="width:40px" /></a>
-<a title="npm" href="https://www.npmjs.com/~volcanofr"><img height="32" width="32" src="https://cdn.simpleicons.org/npm" style="width:40px" /></a>
-<a title="git" href="https://git-scm.com/about"><img height="32" width="32" src="https://cdn.simpleicons.org/git" style="width:40px" /></a>
-<a title="GitHub" href="https://github.com/volcanofr/volcanofr#readme"><img height="32" width="32" src="https://cdn.simpleicons.org/github" style="width:40px" /></a>
-<a title="Google" href="https://drive.google.com"><img height="32" width="32" src="https://cdn.simpleicons.org/googlesheets" style="width:40px" /></a>
-<a title="VSCode" href="https://code.visualstudio.com"><img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode" style="width:40px" /></a>
-<a title="HTML" href="https://developer.mozilla.org/docs/Web/HTML"><img height="32" width="32" src="https://cdn.simpleicons.org/html5" style="width:40px" /></a>
-<a title="CSS" href="https://developer.mozilla.org/docs/Web/CSS"><img height="32" width="32" src="https://cdn.simpleicons.org/css3" style="width:40px" /></a>
-<a title="TypeScript" href="https://www.typescriptlang.org"><img height="32" width="32" src="https://cdn.simpleicons.org/typescript" style="width:40px" /></a>
-And more...
+🌐 Life Snapshot
 
-### My GitHub stats:
+- Languages Spoken: 
+  - French
+  - English
+- Age:🤫
 
-![Ayka's GitHub followers](https://img.shields.io/github/followers/ayka-667)
-![Ayka's GitHub stars](https://img.shields.io/github/stars/ayka-667)
-![Ayka's GitHub sponsors](https://img.shields.io/github/sponsors/ayka-667)
+💻 Coding Expertise
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayka-667&theme=dark&show_icons=true&hide_border=true&count_private=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ayka-667&theme=dark&show_icons=true&hide_border=true&layout=compact)
+- Languages:
+  - Expert: 
+    - Python
+    - HTML & CSS
+    - JavaScript
+  - Intermediate:
+    - GO
+    - Php
+    - C++
+  - Learning:
+    - Rust
+
+🛠️ Specialties
+
+- Task Automation
+- Artificial Intelligence
+- Website development
+
+🖥️ My Beastly Setup
+
+- PC Build:
+  - Processor : AMD Ryzen 5 3600 | 6-Cores
+  - RAM       : 16GB DDR5
+  - GPU       : NVIDIA RTX 2070 | 8GB
+  - Storage   : 1TB Sata SSD (OS) + 3TB HDD (Storage)
+  - Cooling   : Air cooler
+  - Monitor   : 3x 1080p Monitors
+
+🔧 Development Environment
+
+- IDE:
+  - Visual Studio Code
+  - VS Code 2022
+
+- Operating Systems:
+  - Linux: Zorin OS 17.2
+  - Windows 11
+  - Servers: Debian GNU/Linux 12 (bookworm) / Ubuntu 24.04.1 LTS
+
+🚀 Projects
+
+- Nekohost
+- Kaya Bot
+- Streamify
+
+- Im working on:
+  - Check out my repositories to see what I'm working on!
+```
+<br>
+<h2 align="center">Skills </h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,golang,js,vscode,c,cpp,cs,html,css" />
+  </a>
+</p>
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/?username=H4cK3dR4Du&title_color=219ebc&text_color=bde0fe&show_icons=true&bg_color=00000000&hide_border=true&icon_color=674fc9&hide_title=false&count_private=true" />
+</p>
+
+![Footer](./2.png)
