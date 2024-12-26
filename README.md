@@ -71,13 +71,13 @@
 <h2 align="center">Skills </h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,golang,js,vscode,c,cpp,cs,html,css" />
+    <img src="https://skillicons.dev/icons?i=python,html,css,js,golang,php,vscode,c,cpp,cs" />
   </a>
 </p>
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/?username=H4cK3dR4Du&title_color=219ebc&text_color=bde0fe&show_icons=true&bg_color=00000000&hide_border=true&icon_color=674fc9&hide_title=false&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/?username=ayka-667&title_color=219ebc&text_color=bde0fe&show_icons=true&bg_color=00000000&hide_border=true&icon_color=674fc9&hide_title=false&count_private=true" />
 </p>
 
 ![Footer](./2.png)
