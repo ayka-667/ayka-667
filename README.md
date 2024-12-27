@@ -28,6 +28,7 @@
     - GO
     - Php
     - C++
+    - Lua
   - Learning:
     - Rust
 
