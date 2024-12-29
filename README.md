@@ -1,10 +1,5 @@
-![Header](./4.png)
+![Header](./3.png)
 
-<p align="center">
-  <img src="./3.png" />
-</p>
-
-<h1 align="center">Ayka</h1>
 <a href="https://github.com/ayka-667"></a>
 <a href="https://nekohost.fr/invite"></a>
 
