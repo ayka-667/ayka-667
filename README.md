@@ -23,12 +23,11 @@
     - HTML & CSS
     - JavaScript
   - Intermediate:
-    - GO
     - Php
-    - C++
     - Lua
   - Learning:
-    - Rust
+    - GO
+    - C++
 
 🛠️ Specialties
 
