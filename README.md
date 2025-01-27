@@ -14,7 +14,6 @@
 - Languages Spoken: 
   - French
   - English
-- Age:🤫
 
 💻 Coding Expertise
 
