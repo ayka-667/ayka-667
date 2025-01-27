@@ -60,7 +60,6 @@
 
 - Nekohost
 - Kaya Bot
-- Streamify
 
 - Im working on:
   - Check out my repositories to see what I'm working on!
