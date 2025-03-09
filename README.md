@@ -64,11 +64,7 @@
 - Im working on:
   - Check out my repositories to see what I'm working on!
 ```
-<p align="center">
-  <a href="https://discord.com/users/233657223190937601">
-    <img src="https://lanyard.cnrad.dev/api/233657223190937601" alt="Discord Presence">
-  </a>
-</p>
+<a href="https://discord.com/users/601337312714031124"><img src="https://lanyard.cnrad.dev/api/601337312714031124" /></a>
 <br>
 <h2 align="center">Skills </h2>
 <p align="center">
