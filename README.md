@@ -79,6 +79,6 @@
 
 <p align="center">
   <a href="https://discord.com/users/601337312714031124">
-    <img src="https://lanyard.cnrad.dev/api/601337312714031124" alt="Discord Presence" width="1000">
+    <img src="https://lanyard.cnrad.dev/api/601337312714031124" alt="Discord Presence" width="500">
   </a>
 </p>
