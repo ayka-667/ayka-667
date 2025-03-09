@@ -66,7 +66,7 @@
 ```
 <p align="center">
   <a href="https://discord.com/users/601337312714031124">
-    <img src="https://lanyard.cnrad.dev/api/601337312714031124?borderRadius=5px&width=500" alt="Discord Presence">
+    <img src="https://lanyard.cnrad.dev/api/601337312714031124?borderRadius=5px&width=5000" alt="Discord Presence">
   </a>
 </p>
 <br>
