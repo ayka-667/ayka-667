@@ -64,11 +64,6 @@
 - Im working on:
   - Check out my repositories to see what I'm working on!
 ```
-<p align="center">
-  <a href="https://discord.com/users/601337312714031124">
-    <img src="https://lanyard.cnrad.dev/api/601337312714031124" alt="Discord Presence" width="1000" height="150">
-  </a>
-</p>
 <br>
 <h2 align="center">Skills </h2>
 <p align="center">
@@ -80,4 +75,10 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/?username=ayka-667&title_color=219ebc&text_color=bde0fe&show_icons=true&bg_color=00000000&hide_border=true&icon_color=674fc9&hide_title=false&count_private=true" />
+</p>
+
+<p align="center">
+  <a href="https://discord.com/users/601337312714031124">
+    <img src="https://lanyard.cnrad.dev/api/601337312714031124" alt="Discord Presence" width="1000">
+  </a>
 </p>
