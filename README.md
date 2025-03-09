@@ -65,6 +65,8 @@
   - Check out my repositories to see what I'm working on!
 ```
 <br>
+## 🌐 My Discord:
+[![Discord Presence](https://lanyard.cnrad.dev/api/233657223190937601)](https://discord.com/users/233657223190937601)
 <h2 align="center">Skills </h2>
 <p align="center">
   <a href="https://skillicons.dev">
