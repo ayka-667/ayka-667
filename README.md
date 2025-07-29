@@ -58,8 +58,7 @@
 
 🚀 Projects
 
-- Nekohost
-- Kaya Bot
+- Aternos Server Scanner
 
 - Im working on:
   - Check out my repositories to see what I'm working on!
