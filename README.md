@@ -1,7 +1,7 @@
 ![Header](./3.png)
 
 <a href="https://github.com/ayka-667"></a>
-<a href="https://nekohost.fr/invite"></a>
+<a href="https://ayka.dev/invite"></a>
 
 ```
 📬 Contact Me
@@ -43,7 +43,7 @@
   - GPU       : NVIDIA RTX 2070 | 8GB
   - Storage   : 1TB Sata SSD (OS) + 3TB HDD (Storage)
   - Cooling   : Air cooler
-  - Monitor   : 3x 1080p Monitors
+  - Monitor   : 2x 1080p Monitors
 
 🔧 Development Environment
 
@@ -59,6 +59,8 @@
 🚀 Projects
 
 - Aternos Server Scanner
+
+- SteamTools - https://steamtools.ayka.dev/
 
 - Im working on:
   - Check out my repositories to see what I'm working on!
