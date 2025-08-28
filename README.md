@@ -7,7 +7,7 @@
 📬 Contact Me
 
 - Email : contact@ayka.dev
-- Discord  : nekohost.fr/invite
+- Discord  : ayka.dev/discord
 
 🌐 Life Snapshot
 
