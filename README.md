@@ -48,17 +48,15 @@
 🔧 Development Environment
 
 - IDE:
-  - Visual Studio Code
+  - Cursor
   - VS Code 2022
 
 - Operating Systems:
   - Linux: Zorin OS 17.2
-  - Windows 11
+  - Windows 10
   - Servers: Debian GNU/Linux 12 (bookworm) / Ubuntu 24.04.1 LTS
 
 🚀 Projects
-
-- Aternos Server Scanner
 
 - SteamTools - https://steamtools.ayka.dev/
 
