@@ -58,7 +58,7 @@
 
 🚀 Projects
 
-- SteamTools - https://steamtools.ayka.dev/
+- SteamTools - https://steamtools.app/
 
 - Im working on:
   - Check out my repositories to see what I'm working on!
