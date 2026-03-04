@@ -38,27 +38,26 @@
 🖥️ My Beastly Setup
 
 - PC Build:
-  - Processor : AMD Ryzen 5 3600 | 6-Cores
+  - Processor : AMD Ryzen 7 5600x | 8-Cores
   - RAM       : 16GB DDR5
-  - GPU       : NVIDIA RTX 2070 | 8GB
-  - Storage   : 1TB Sata SSD (OS) + 3TB HDD (Storage)
+  - GPU       : NVIDIA RTX 5060 | 8GB
+  - Storage   : 1TB NVMe (OS) + 3TB HDD (Storage) + 1TB HDD & 250Go SSD (Server NAS) 
   - Cooling   : Air cooler
   - Monitor   : 2x 1080p Monitors
 
 🔧 Development Environment
 
 - IDE:
-  - Cursor
-  - VS Code 2022
+  - Visual Studio 2026
+  - VS Code
 
 - Operating Systems:
-  - Linux: Zorin OS 17.2
-  - Windows 10
-  - Servers: Debian GNU/Linux 12 (bookworm) / Ubuntu 24.04.1 LTS
+  - Windows 11 Pro
+  - Servers: TrueNAS-25.04.2.6 / Ubuntu 24.04.3 LTS
 
 🚀 Projects
 
-- SteamTools - https://steamtools.app/
+- SteamTools - https://www.steamtools.app/
 
 - Im working on:
   - Check out my repositories to see what I'm working on!
@@ -79,7 +78,7 @@
 <h2 align="center">Discord </h2>
 
 <p align="center">
-  <a href="https://discord.com/users/601337312714031124">
-    <img src="https://lanyard.cnrad.dev/api/601337312714031124" alt="Discord Presence" width="500">
+  <a href="https://discord.com/users/1198196468272603196">
+    <img src="https://lanyard.cnrad.dev/api/1198196468272603196" alt="Discord Presence" width="500">
   </a>
 </p>
