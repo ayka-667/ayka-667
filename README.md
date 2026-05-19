@@ -39,7 +39,7 @@
 
 - PC Build:
   - Processor : AMD Ryzen 7 5600x | 8-Cores
-  - RAM       : 16GB DDR5
+  - RAM       : 24GB DDR4
   - GPU       : NVIDIA RTX 5060 | 8GB
   - Storage   : 1TB NVMe (OS) + 3TB HDD (Storage) + 1TB HDD & 250Go SSD (Server NAS) 
   - Cooling   : Air cooler
