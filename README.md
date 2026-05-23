@@ -3,7 +3,7 @@
 
 ```csharp
 github.com/ayka-667
-dc   $  ayka.dev/discord
+dc   $  www.steamtools.app/discord
 web  $  ayka.dev
 mail $  contact@ayka.dev
 ```
