@@ -1,74 +1,84 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" height="30px" width="30px"> I'm AYKA</h1>
+<h1>Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" height="24px" width="24px"> I'm AYKA &nbsp;<a href="https://komarev.com/ghpvc/?username=ayka-667"><img src="https://komarev.com/ghpvc/?username=ayka-667&label=views&color=555&style=flat-square" align="right" /></a></h1>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=ayka-667">
-    <img src="https://komarev.com/ghpvc/?username=ayka-667&label=Profile%20views&color=00FFFF&style=flat-square" alt="ayka-667's profile views" />
-  </a>
-</p>
+<sub>@ayka-667 &nbsp;·&nbsp; ayka.dev &nbsp;·&nbsp; France</sub>
 
-<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
+<br>
 
-## 📌 About Me
-- 🐉 Hi, I own steamtools.app !
+<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" width="100%" />
 
-## 🛠️ Languages & Tools
+<br>
 
-<h3 align="center">Programming Languages</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
+---
 
-</p>
+### About
 
-<h3 align="center">Frontend</h3>
-<p align="center">
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />
+I own **[steamtools.app](https://www.steamtools.app/)** — building tools for automation, AI & the web.
 
-</p>
+---
 
-<h3 align="center">Backend</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />
+### Languages & Tools
 
-</p>
+<table>
+<tr>
+<td valign="top">
 
-<h3 align="center">Database</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" />
+`languages`
+<br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="32" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="32" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32" />
 
-</p>
+<br><br>
 
-<h3 align="center">DevOps & Cloud</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />
+`backend`
+<br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="32" />
 
-</p>
+<br><br>
 
-<h3 align="center">Tools</h3>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />
+`devops`
+<br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="32" />
 
-</p>
+</td>
+<td valign="top">
 
-## 🔗 Connect with Me
-<p align="center">
-  <a href="mailto:contact@ayka.dev">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
-  </a>&nbsp;
-  <a href="https://www.ayka.dev/">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
-  </a>
-</p>
+`frontend`
+<br>
+<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="32" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="32" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="32" />&nbsp;
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="32" />
+
+<br><br>
+
+`database`
+<br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="32" />&nbsp;
+<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="32" />
+
+<br><br>
+
+`tools`
+<br>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="32" />&nbsp;
+<img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="32" />
+
+</td>
+</tr>
+</table>
+
+---
+
+### Connect
+
+<a href="mailto:contact@ayka.dev"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="20" /> &nbsp;contact@ayka.dev</a> &nbsp;&nbsp;
+<a href="https://www.ayka.dev/"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" width="20" /> &nbsp;ayka.dev</a>
+
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
   <img alt="Breakout Game" src="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
 </picture>
-
