@@ -41,13 +41,6 @@ setup:
 
 ---
 
-### Connect
-
-<a href="mailto:contact@ayka.dev"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="18" /> &nbsp;contact@ayka.dev</a> &nbsp;&nbsp;
-<a href="https://www.ayka.dev/"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" width="18" /> &nbsp;ayka.dev</a>
-
----
-
 <picture>
   <img alt="Breakout Game" src="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/dark.svg" />
 </picture>
