@@ -12,7 +12,30 @@
 
 ### About
 
-I own **[steamtools.app](https://www.steamtools.app/)** — building tools for automation, AI & the web.
+```yaml
+name:        Ayka
+location:    France
+languages:   French, English
+
+focus:
+  - Task Automation
+  - Artificial Intelligence
+  - Web Development
+
+projects:
+  - steamtools.app
+
+env:
+  os:   Windows 11 Pro · Ubuntu 24.04 LTS · TrueNAS 25.04
+  ide:  Visual Studio 2026 · VS Code
+
+setup:
+  cpu:     AMD Ryzen 7 5600x (8 cores)
+  ram:     24 GB DDR4
+  gpu:     NVIDIA RTX 5060 8 GB
+  storage: 1 TB NVMe + 3 TB HDD + NAS
+  display: 2× 1080p
+```
 
 ---
 
