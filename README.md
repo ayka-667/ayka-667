@@ -1,4 +1,4 @@
-<h1>Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" height="24px" width="24px"> I'm AYKA <img src="https://komarev.com/ghpvc/?username=ayka-667&label=views&color=6e7681&style=flat-square" align="right" /></h1>
+<h1>Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" height="24px" width="24px"> I'm AYKA <img src="https://komarev.com/ghpvc/?username=ayka-667&label=views&color=4581D6&style=flat-square" align="right" /></h1>
 
 <sub>@ayka-667 &nbsp;·&nbsp; ayka.dev &nbsp;·&nbsp; France</sub>
 
