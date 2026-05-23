@@ -17,16 +17,12 @@ name:        Ayka
 location:    France
 languages:   French, English
 
-focus:
-  - Task Automation
-  - Artificial Intelligence
-  - Web Development
-
 projects:
   - steamtools.app
+  - GraphLauncher
 
 env:
-  os:   Windows 11 Pro · Ubuntu 24.04 LTS · TrueNAS 25.04
+  os:   Windows 11 Pro · Ubuntu server 26.04 LTS · TrueNAS 25.04
   ide:  Visual Studio 2026 · VS Code
 
 setup:
