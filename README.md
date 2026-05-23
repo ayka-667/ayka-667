@@ -49,5 +49,5 @@ setup:
 ---
 
 <picture>
-  <img alt="Breakout Game" src="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
+  <img alt="Breakout Game" src="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/dark.svg" />
 </picture>
