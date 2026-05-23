@@ -11,13 +11,6 @@
 ## 📌 About Me
 - 🐉 Hi, I own steamtools.app !
 
-
-## 📊 GitHub Stats & Trophies
-<div align="center">
-  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
-</div>
-
-
 ## 🛠️ Languages & Tools
 
 <h3 align="center">Programming Languages</h3>
