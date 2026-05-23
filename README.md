@@ -1,3 +1,6 @@
+
+---
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&lines=ayka.dev+%7C+ayka)](https://git.io/typing-svg)
 <img align="left" src="https://r2.guns.lol/87c6f075-fdc7-4c50-b90a-9ad23be62b72.webp" width="147"/>
 
