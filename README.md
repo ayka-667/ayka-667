@@ -22,7 +22,7 @@ projects:
   - GraphLauncher
 
 env:
-  os:   Windows 11 Pro · Ubuntu server 26.04 LTS · TrueNAS 25.04
+  os:   CachyOS · Ubuntu server · TrueNAS
   ide:  Visual Studio 2026 · VS Code
 
 setup:
